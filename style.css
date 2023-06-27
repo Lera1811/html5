@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1146px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.header__logo {
+    margin-top: 40px;
+    margin-bottom: 84px;
+    margin-right: 500px;
+}
+
+.header_logo_GrowBe {
+    margin-top: 45px;
+    margin-bottom: 89px;
+}
+
+.header_nav {
+    margin-top: 51px;
+    margin-bottom: 94.71px;
+
+}
+
+.header_link {
+    color: #000000;
+    font-size: 14px;
+    font-family: Gilroy-SemiBold;
+    text-decoration: none;
+    padding: 7px;
+}
+
+.link_home {
+    color: #F25822;
+    font-size: 14px;
+    font-family: Gilroy-SemiBold;
+    text-decoration: none;
+    padding: 7px;
+}
+
+.top__content {
+    margin-bottom: 162.45px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.title {
+    margin-bottom: 17px;
+    margin-right: 40.94px;
+    color: #000;
+    font-size: 60px;
+    font-family: Gilroy-Bold;
+}
+
+.text {
+    margin-bottom: 37px;
+    margin-right: 96.94px;
+    color: #888;
+    font-size: 20px;
+    font-family: Gilroy-Medium;
+}
+
+.top_buttons_watch {
+    margin-top: 15px;
+}
+
+.buttons_link {
+    color: #AAA;
+    font-size: 15px;
+    font-family: Gilroy-Bold;
+    text-decoration: none;
+}
+
+.top__buttons {
+    margin-top: 37px;   
+    display: flex;
+    justify-content: flex-start;
+}
+
+.top_buttons_start {
+    margin-right: 72px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.top__logos {
+    margin-bottom: 96px;
+    margin-top: 97px;
+    display: flex;
+    justify-content:space-around;
+}
